@@ -5,7 +5,7 @@ title: Open-source Projects
 
 In this page, you can find self-cooked software that I have worked on either as a side project or during my spare time, and that has been released under an open-source license.
 
-<ul>
+<ul class="portfolio">
 
 <li>
 <a href="https://github.com/jalopezg-git/libledmtx">

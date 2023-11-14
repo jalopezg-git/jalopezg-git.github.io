@@ -257,3 +257,57 @@ a.sidebar-nav-item:focus {
 .theme-base-jalopezg .related-posts li a:hover {
   color: #6a9fb5;
 }
+
+/*
+ * Project portfolio
+ *
+ * Styling of the portfolio in projects.md
+ */
+
+ul.portfolio {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 0pt;
+}
+.portfolio li a {
+  text-decoration: none;
+  color: #515151;
+}
+.portfolio li {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  margin: 0.75rem;
+  border: 1px solid #6a9fb5;
+  text-align: justify;
+  opacity: 0.5;
+  transition: all .25s;
+}
+
+.portfolio li div {
+  height: 96px;
+  overflow: hidden;
+}
+.portfolio li span {
+  display: block;
+  height: 96px;
+  background-clip: padding-box;
+  background-repeat: no-repeat;
+  transition: all .25s;
+}
+
+.portfolio li h3 {
+  margin: 0.5em;
+  text-align: center;
+}
+
+.portfolio li p {
+  margin: 0.5em;
+}
+
+.portfolio li:hover {
+  opacity: 1;
+}
+.portfolio li:hover span {
+  transform: scale(1.25);
+}
