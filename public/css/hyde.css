@@ -248,3 +248,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* jalopezg */
+.theme-base-jalopezg .sidebar {
+  background-image: linear-gradient(to bottom, #b56576, #2a6f97);
+}
+.theme-base-jalopezg .content a,
+.theme-base-jalopezg .related-posts li a:hover {
+  color: #6a9fb5;
+}
