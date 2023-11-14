@@ -209,6 +209,10 @@ pre code {
   background-color: transparent;
   border-radius: 0;
 }
+.gist .blob-wrapper.data {
+  max-height: 64em;
+  overflow: auto;
+}
 
 /* Quotes */
 blockquote {
