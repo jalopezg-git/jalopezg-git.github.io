@@ -354,6 +354,11 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 1rem;
   color: #9a9a9a;
 }
+.post-sticky::after {
+  display: inline;
+  padding-left: 4em;
+  content: url('/public/view-pin-symbolic.svg') 'Pinned';
+}
 
 /* Related posts */
 .related {
