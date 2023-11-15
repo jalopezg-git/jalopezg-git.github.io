@@ -17,15 +17,18 @@ Javier L&oacute;pez-G&oacute;mez, Javier Fern&aacute;ndez Mun&#771;oz, David del
 Parallel Computing, Volume 84, Issue C, May 2019.
 
 ### Academic conferences/workshops
-- _"Relaxing the one definition rule in interpreted C++"_.
-Javier L&oacute;pez-G&oacute;mez, Javier Fern&aacute;ndez, David del Rio Astorga, Vassil Vassilev, Axel Naumann, J. Daniel Garc&iacute;a.
-In Proceedings of the 29th International Conference on Compiler Construction (CC 2020).
+- _"RNTuple: Towards First-Class Support for HPC data centers"_.
+Giovanna Lazzari Miotto and Javier Lopez-Gomez.
+In 21th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2022).
 - _"RNTuple performance: Status and Outlook"_.
 Javier Lopez-Gomez and Jakob Blomer.
 In Proceedings of 20th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2021).
 - _"Exploring Object Stores for High-Energy Physics Data Storage"_.
 Javier Lopez-Gomez and Jakob Blomer.
 In 25th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2021).
+- _"Relaxing the one definition rule in interpreted C++"_.
+Javier L&oacute;pez-G&oacute;mez, Javier Fern&aacute;ndez, David del Rio Astorga, Vassil Vassilev, Axel Naumann, J. Daniel Garc&iacute;a.
+In Proceedings of the 29th International Conference on Compiler Construction (CC 2020).
 
 ### Industrial conferences
 - _"Adding support for C++ contracts to Clang"_ at [EuroLLVM '19](https://llvm.org/devmtg/2019-04/)
