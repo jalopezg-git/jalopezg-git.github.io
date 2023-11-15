@@ -5,7 +5,7 @@ title: About me
 
 <p class="message">
   Hi there!
-  I'm Javier :wave:, a <em>HPC software engineer</em> and <em>Ph.D. in Computer Science and Technology</em> passionate about C++, OS internals, and compiler design / implementation.
+  I'm Javier :wave:, a <em>HPC software engineer</em> and <em>Ph.D. in Computer Science and Technology</em> based in Madrid (Spain), passionate about C++, OS internals, and compiler design / implementation.
 </p>
 
 Formerly, I was working in the CERN [EP/SFT](https://ep-dep-sft.web.cern.ch/) (SoFTware for experiments) group.  Specifically, most if not all of my work in 2020&ndash;2023 was happening under the [ROOT project](https://root.cern/) umbrella.
@@ -34,6 +34,10 @@ Concretely, my contributions lie in the following areas:
 
 - General ROOT aspects: enhancements to the terminal input library, build system, etc.
 
-A summarized version of my CV can be downloaded [here](/public/cv_en-US.pdf).  A list of relevant publications can be accessed [here](/publications).
+Shortly before (2017-2020), I signed a predoctoral contract to conduct my research within the Computer Architecture, Communications and Systems (ARCOS) research group at University Carlos III of Madrid.
+The Ph.D. thesis contributes to the area of software reliability, verification and optimization.
+As a requirement for a thesis' chapter, a [prototype implementation in clang](https://github.com/arcosuc3m/clang-contracts) of proposal [P0542R5](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0542r5.html) for C++ contracts was written.
+
+For more information, please see a summarized version of my [CV](/public/cv_en-US.pdf).  A list of relevant publications can be accessed [here](/publications).
 In my spare time, I also maintain / contribute to a number of [open-source projects](/projects).
 See also my [GitHub profile](https://github.com/jalopezg-git/).
