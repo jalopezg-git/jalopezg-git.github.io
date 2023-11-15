@@ -5,7 +5,7 @@ title: About me
 
 <p class="message">
   Hi there!
-  I'm Javier, a <em>HPC software engineer</em> and <em>Ph.D. in Computer Science and Technology</em> passionate about C++, OS internals, and compiler design / implementation.
+  I'm Javier :wave:, a <em>HPC software engineer</em> and <em>Ph.D. in Computer Science and Technology</em> passionate about C++, OS internals, and compiler design / implementation.
 </p>
 
 Formerly, I was working in the CERN [EP/SFT](https://ep-dep-sft.web.cern.ch/) (SoFTware for experiments) group.  Specifically, most if not all of my work in 2020&ndash;2023 was happening under the [ROOT project](https://root.cern/) umbrella.

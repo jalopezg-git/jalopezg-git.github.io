@@ -4,6 +4,7 @@ highlighter:      pygments
 plugins:
   - jekyll-gist
   - jekyll-paginate
+  - jemoji
 
 # Permalinks
 permalink:        pretty
