@@ -99,6 +99,20 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+.sidebar-about .profile-picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 6em;
+}
+img.profile-picture {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 156px;
+  width: 156px;
+  padding: 4px;
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
@@ -256,6 +270,12 @@ a.sidebar-nav-item:focus {
 .theme-base-jalopezg .content a,
 .theme-base-jalopezg .related-posts li a:hover {
   color: #6a9fb5;
+}
+
+.theme-base-jalopezg .sidebar img.profile-picture {
+  background: linear-gradient(to bottom right, #fff, #fff) padding-box,
+	      linear-gradient(to bottom right, #2a6f97, #b56576) border-box;
+  border: 4px solid transparent;
 }
 
 /*
