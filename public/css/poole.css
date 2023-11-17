@@ -346,6 +346,10 @@ tbody tr:nth-child(odd) th {
 .post-title {
   margin-top: 0;
 }
+img.post-imgfl {
+  float: left;
+  margin: 0 1ex 1ex 0;
+}
 
 /* Meta data line below post title */
 .post-date {
