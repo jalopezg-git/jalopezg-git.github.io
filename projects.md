@@ -4,6 +4,7 @@ title: Open-source Projects
 ---
 
 In this page, you can find self-cooked software that I have worked on either as a side project or during my spare time, and that has been released under an open-source license.
+See also my [GitHub profile](https://github.com/jalopezg-git/).
 
 <ul class="portfolio">
 
