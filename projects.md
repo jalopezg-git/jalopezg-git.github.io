@@ -58,4 +58,13 @@ This is especially useful for low-power computers, e.g. Raspberry Pi, in which t
 </a>
 </li>
 
+<li>
+<a href="https://github.com/jalopezg-git/p18-LEDcube">
+<div><span style="background-image: url('/public/img/p18-LEDcube.jpg')"/></div>
+<h3>p18-LEDcube</h3>
+<p>p18-LEDcube is a 8x8x8 three-dimensional LED matrix that builds atop libledmtx.  Conceptually, it is a 2D matrix in which rows have been physically layouted as a Y plane (i.e., for libledmtx each slice appears as a 64-pixel scanline).
+This project is work in progress.</p>
+</a>
+</li>
+
 </ul>
