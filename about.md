@@ -38,6 +38,6 @@ Shortly before (2017-2020), I signed a predoctoral contract to conduct my resear
 The Ph.D. thesis contributes to the area of software reliability, verification and optimization.
 As a requirement for a thesis' chapter, a [prototype implementation in clang](https://github.com/arcosuc3m/clang-contracts) of proposal [P0542R5](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0542r5.html) for C++ contracts was written.
 
-For more information, please see a summarized version of my [CV](/public/cv_en-US.pdf).  A list of relevant publications can be accessed [here](/publications).
+For more information, please see a summarized version of my CV ([English](/public/cv_en-US.pdf) | [Espa&ntilde;ol](/public/cv_es-ES.pdf)).  A list of relevant publications can be accessed [here](/publications).
 In my spare time, I also maintain / contribute to a number of [open-source projects](/projects).
 See also my [GitHub profile](https://github.com/jalopezg-git/).
