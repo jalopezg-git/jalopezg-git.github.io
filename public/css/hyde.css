@@ -267,6 +267,13 @@ img.profile-picture {
 .theme-base-jalopezg .sidebar {
   background-image: linear-gradient(to bottom, #b56576, #2a6f97);
 }
+.theme-base-jalopezg .sidebar::after {
+  content: url('/public/img/sidebar-bg.svg');
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  top: 0;
+}
 .theme-base-jalopezg .content a,
 .theme-base-jalopezg .related-posts li a:hover {
   color: #6a9fb5;
