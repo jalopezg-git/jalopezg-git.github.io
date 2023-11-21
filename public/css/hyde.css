@@ -108,8 +108,8 @@ a.sidebar-nav-item:focus {
 img.profile-picture {
   object-fit: cover;
   border-radius: 50%;
-  height: 156px;
-  width: 156px;
+  height: 172px;
+  width: 172px;
   padding: 4px;
 }
 
