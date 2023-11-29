@@ -42,3 +42,15 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
 ### Other merits
 - Reviewer for the [SoftwareX](https://www.sciencedirect.com/journal/softwarex) journal (IF=3.4)
 - Google Summer of Code 2022 mentor for the [HEP Software Foundation](https://hepsoftwarefoundation.org/activities/gsoc.html)
+
+### Engineering
+<script crossorigin src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"/>
+
+<div class="calendar">
+    <img class="spinner" src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif"/><br/>
+    <p class="spinner-text monospace" style="font-size: .7rem;">Crunching <a href="https://github.com/jalopezg-git" target="_blank">@jalopez-git</a>'s contributions on GitHub just for you.</p>
+</div>
+<script>
+    GitHubCalendar(".calendar", "jalopezg-git", { responsive: true });
+</script>
