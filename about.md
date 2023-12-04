@@ -34,9 +34,11 @@ Concretely, my contributions lie in the following areas:
 
 - General ROOT aspects: enhancements to the terminal input library, build system, etc.
 
-Shortly before (2017-2020), I signed a predoctoral contract to conduct my research within the Computer Architecture, Communications and Systems (ARCOS) research group at University Carlos III of Madrid.
-The Ph.D. thesis contributes to the area of software reliability, verification and optimization.
-As a requirement for a thesis' chapter, a [prototype implementation in clang](https://github.com/arcosuc3m/clang-contracts) of proposal [P0542R5](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0542r5.html) for C++ contracts was written.
+Other than purely technical tasks, I was also in charge of the supervision of 5+ interns in the group, serving as a mentor for CERN-HSF during Google Summer of Code 2022, and involved in other training / support responsibilities.
+
+Shortly before joining the ROOT team (2017-2020), I signed a predoctoral contract to conduct my research within the Computer Architecture, Communications and Systems (ARCOS) research group at University Carlos III of Madrid.
+The <a href="https://www.educacion.gob.es/teseo/mostrarRef.do?ref=1895079" target="_blank">Ph.D. thesis</a> contributes to the area of software reliability, verification and optimization.
+As a requirement for a thesis' chapter, I wrote a <a href="https://github.com/arcosuc3m/clang-contracts" target="_blank">prototype implementation in clang</a> of proposal <a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0542r5.html" target="_blank">P0542R5</a> for C++ contracts.
 
 For more information, please see a summarized version of my CV ([English](/public/cv_en-US.pdf) | [Espa&ntilde;ol](/public/cv_es-ES.pdf)).  A list of relevant publications can be accessed [here](/publications).
 In my spare time, I also maintain / contribute to a number of [open-source projects](/projects).
