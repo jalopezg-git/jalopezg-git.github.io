@@ -307,6 +307,7 @@ ul.portfolio {
   margin: 0.5rem;
   border: 1px solid #6a9fb5;
   text-align: justify;
+  font-size: smaller;
   opacity: 0.5;
   transition: all .25s;
 }
