@@ -40,6 +40,6 @@ Shortly before joining the ROOT team (2017-2020), I signed a predoctoral contrac
 The <a href="https://www.educacion.gob.es/teseo/mostrarRef.do?ref=1895079" target="_blank">Ph.D. thesis</a> contributes to the area of software reliability, verification and optimization.
 As a requirement for a thesis' chapter, I wrote a <a href="https://github.com/arcosuc3m/clang-contracts" target="_blank">prototype implementation in clang</a> of proposal <a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0542r5.html" target="_blank">P0542R5</a> for C++ contracts.
 
-For more information, please see a summarized version of my CV ([English](/public/resume_en-US.pdf) | [Espa&ntilde;ol](/public/resume_es-ES.pdf)).  A list of relevant publications can be accessed [here](/publications).
+For more information, please see a summarized version of my CV ([English](/public/resume_en-US.pdf)).  A list of relevant publications can be accessed [here](/publications).
 In my spare time, I also maintain / contribute to a number of [open-source projects](/projects).
 See also my [GitHub profile](https://github.com/jalopezg-git/).
