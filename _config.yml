@@ -20,7 +20,7 @@ author:
   name:           'Javier Lopez-Gomez'
   url:            https://jalopezg-git.github.io/
 
-paginate:         5
+paginate:         10
 
 # Custom vars
 github:
