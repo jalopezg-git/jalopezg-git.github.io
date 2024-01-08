@@ -6,8 +6,29 @@ title: Open-source Projects
 In this page, you can find self-cooked software that I have worked on either as a side project or during my spare time, and that has been released under an open-source license.
 See also my [GitHub profile](https://github.com/jalopezg-git/).
 
-<ul class="portfolio">
+<h2>Work-related</h2>
 
+<ul class="portfolio">
+<li>
+<a href="https://github.com/arcosuc3m/clang-contracts">
+<div><span style="background-image: url('/public/img/clang-contracts.png')"/></div>
+<h3>clang-contracts</h3>
+<p>A fork of clang-5 that implements preliminary support for contract based programming in C++ (ISOCPP P0542R5).</p>
+</a>
+</li>
+
+<li>
+<a href="https://github.com/jalopezg-git/h5hep">
+<div><span style="background-image: url('/public/img/h5hep.png')"/></div>
+<h3>h5hep</h3>
+<p>Enables the storage of simple high-energy physics (HEP) data in HDF5, hiding away the details of data representation, e.g. whether data is stored using compound types (row-oriented) or using one HDF5 dataset per column of a primitive type (emulated columnar).</p>
+</a>
+</li>
+</ul>
+
+<h2>Personal</h2>
+
+<ul class="portfolio">
 <li>
 <a href="https://github.com/jalopezg-git/libledmtx">
 <div><span style="background-image: url('/public/img/libledmtx.jpg')"/></div>
@@ -44,14 +65,6 @@ This is especially useful for low-power computers, e.g. Raspberry Pi, in which t
 </li>
 
 <li>
-<a href="https://github.com/jalopezg-git/h5hep">
-<div><span style="background-image: url('/public/img/h5hep.png')"/></div>
-<h3>h5hep</h3>
-<p>Enables the storage of simple high-energy physics (HEP) data in HDF5, hiding away the details of data representation, e.g. whether data is stored using compound types (row-oriented) or using one HDF5 dataset per column of a primitive type (emulated columnar).</p>
-</a>
-</li>
-
-<li>
 <a href="https://github.com/jalopezg-git/X11tools">
 <div><span style="background-image: url('/public/img/X11tools.png')"/></div>
 <h3>X11tools</h3>
@@ -67,5 +80,4 @@ This is especially useful for low-power computers, e.g. Raspberry Pi, in which t
 This project is work in progress.</p>
 </a>
 </li>
-
 </ul>
