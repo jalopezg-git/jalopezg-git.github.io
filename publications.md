@@ -34,9 +34,11 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
 - _"Adding support for C++ contracts to Clang"_ at [EuroLLVM '19](https://llvm.org/devmtg/2019-04/)
 
 ### Other talks/lectures
-- _"Mapping ROOT RNTuple I/O data structures to DAOS objects"_ at CERN openlab Technical Workshop [2022](https://indico.cern.ch/event/1100904/contributions/4751987/) and [2023](https://indico.cern.ch/event/1225408/contributions/5243848/)
-- _"Status and Roadmap of ROOT's RNTuple and DAOS"_ at Intel DAOS User Group meeting [2020](https://daosio.atlassian.net/wiki/spaces/DC/pages/4866835353/DUG20) and [2021](https://daosio.atlassian.net/wiki/spaces/DC/pages/11015454821/DUG21)
+- _"Mapping ROOT RNTuple I/O data structures to DAOS objects"_ at [CERN openlab Technical Workshop 2023](https://indico.cern.ch/event/1225408/contributions/5243848/)
 - _"RNTuple - The Next Generation TTree"_ at ROOT workshop 2022.  See [here](https://indico.fnal.gov/event/23628/contributions/240607/).
+- _"Mapping ROOT RNTuple I/O data structures to DAOS objects"_ at [CERN openlab Technical Workshop 2022](https://indico.cern.ch/event/1100904/contributions/4751987/)
+- _"Status and Roadmap of ROOT's RNTuple and DAOS"_ at [Intel DAOS User Group meeting 2021](https://daosio.atlassian.net/wiki/spaces/DC/pages/11015454821/DUG21)
+- _"Storing High-Energy Physics data in DAOS"_ at [Intel DAOS User Group meeting 2020](https://daosio.atlassian.net/wiki/spaces/DC/pages/4866835353/DUG20)
 - _"Git - There be dragons"_ at [multiple locations].  See [here](https://github.com/jalopezg-git/Git_There-Be-Dragons)
 
 ### Other merits
