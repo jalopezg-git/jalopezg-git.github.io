@@ -34,6 +34,7 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
 - _"Adding support for C++ contracts to Clang"_ at [EuroLLVM '19](https://llvm.org/devmtg/2019-04/)
 
 ### Other talks/lectures
+- _"Interpreted C++: Is that a thing?"_ at [using std::cpp 2024 (April 25th, 9am CEST)](https://usingstdcpp.org/)  [[slides](https://github.com/jalopezg-git/slides-using_stdcpp_2014/blob/master/main.pdf)]
 - _"Mapping ROOT RNTuple I/O data structures to DAOS objects"_ at [CERN openlab Technical Workshop 2023](https://indico.cern.ch/event/1225408/contributions/5243848/)
 - _"RNTuple - The Next Generation TTree"_ at ROOT workshop 2022.  See [here](https://indico.fnal.gov/event/23628/contributions/240607/).
 - _"Mapping ROOT RNTuple I/O data structures to DAOS objects"_ at [CERN openlab Technical Workshop 2022](https://indico.cern.ch/event/1100904/contributions/4751987/)
