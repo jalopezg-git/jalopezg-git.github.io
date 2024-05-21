@@ -17,6 +17,12 @@ Javier L&oacute;pez-G&oacute;mez, Javier Fern&aacute;ndez Mun&#771;oz, David del
 Parallel Computing, Volume 84, Issue C, May 2019.
 
 ### Academic conferences/workshops
+- _"ROOT's RNTuple I/O Subsystem: The Path to Production"_.
+Jakob Blomer, Philippe Canal, Florine de Geus, Jonas Hahnfeld, Axel Naumann, Javier Lopez-Gomez, Giovanna Lazzari Miotto, and Vincenzo Eduardo Padulano.
+In EPJ Web of Conf. Volume 295, 2024, 26th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2023)
+- _"Integration of RNTuple in ATLAS Athena"_.
+Florine de Geus, Javier Lopez-Gomez, Jakob Blomer, Marcin Nowak, and Peter van Gemmeren.
+In EPJ Web of Conf. Volume 295, 2024, 26th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2023)
 - _"RNTuple: Towards First-Class Support for HPC data centers"_.
 Giovanna Lazzari Miotto and Javier Lopez-Gomez.
 In 21th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2022).
@@ -35,16 +41,13 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
 
 ### Other talks/lectures
 - _"Interpreted C++: Is that a thing?"_ at [using std::cpp 2024 (April 25th, 9am CEST)](https://usingstdcpp.org/)  [[slides](https://github.com/jalopezg-git/slides-using_stdcpp_2014/blob/master/main.pdf)]
+- _"RNTuple and RDataFrame Status and Roadmap"_ at CERN EP R&D Seminar Series, 2023-07-03 [[slides](/public/docs/EP_RD_WP7.4_EfficientAnalysis_03072023.pdf)]
 - _"Mapping ROOT RNTuple I/O data structures to DAOS objects"_ at [CERN openlab Technical Workshop 2023](https://indico.cern.ch/event/1225408/contributions/5243848/)
 - _"RNTuple - The Next Generation TTree"_ at ROOT workshop 2022.  See [here](https://indico.fnal.gov/event/23628/contributions/240607/).
 - _"Mapping ROOT RNTuple I/O data structures to DAOS objects"_ at [CERN openlab Technical Workshop 2022](https://indico.cern.ch/event/1100904/contributions/4751987/)
 - _"Status and Roadmap of ROOT's RNTuple and DAOS"_ at [Intel DAOS User Group meeting 2021](https://daosio.atlassian.net/wiki/spaces/DC/pages/11015454821/DUG21)
 - _"Storing High-Energy Physics data in DAOS"_ at [Intel DAOS User Group meeting 2020](https://daosio.atlassian.net/wiki/spaces/DC/pages/4866835353/DUG20)
 - _"Git - There be dragons"_ at [multiple locations].  See [here](https://github.com/jalopezg-git/Git_There-Be-Dragons)
-
-### Other merits
-- Reviewer for the [SoftwareX](https://www.sciencedirect.com/journal/softwarex) journal (IF=3.4)
-- Google Summer of Code 2022 mentor for the [HEP Software Foundation](https://hepsoftwarefoundation.org/activities/gsoc.html)
 
 ### Engineering
 <script crossorigin src="/public/js/github-calendar.min.js"></script>
@@ -58,3 +61,8 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
     GitHubCalendar(".calendar", "jalopezg-git", { responsive: true, global_stats: true });
 </script>
 <p style="font-size: .7rem; float: right;">See <a href="https://github.com/jalopezg-git" target="_blank">@jalopez-git</a>'s contributions on GitHub.</p>
+
+### Other merits
+- Reviewer for the [SoftwareX](https://www.sciencedirect.com/journal/softwarex) journal (IF=3.4)
+- Google Summer of Code 2022 mentor for the [HEP Software Foundation](https://hepsoftwarefoundation.org/activities/gsoc.html)
+- Regular development on well-known open-source projects: CERN's [ROOT project](https://github.com/root-project/root/), the [cling](https://github.com/root-project/cling/) C++ interpreter, and the [moderncv](https://github.com/moderncv/moderncv/) LaTeX package.  Contributed fixes to [dool](https://github.com/scottchiefbaker/dool) (a `dstat` fork), and [github-calendar.js](https://github.com/Bloggify/github-calendar/).
