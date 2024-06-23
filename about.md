@@ -8,7 +8,8 @@ title: About me
   I'm Javier :wave:, a <em>HPC/low-level software engineer</em> and <em>Ph.D. in Computer Science and Technology</em> based in Madrid (Spain), passionate about C++, OS internals, and compiler design / implementation.
 </p>
 
-Currently, I work at [Zimperium, Inc.](https://www.zimperium.com/) as a Senior Compiler Engineer for mobile application shielding.
+Currently, I work at [Zimperium, Inc.](https://www.zimperium.com/) as a Senior Compiler Engineer, part of the development team of an AArch64 binary-to-binary software protection solution.
+Most of my efforts are dedicated to implement obfuscation passes and, lastly, also to complete the support of unwind information / LSDA (Language-Specific Data Area) rewriting.
 
 Formerly, I was working in the CERN [EP/SFT](https://ep-dep-sft.web.cern.ch/) (SoFTware for experiments) group.  Specifically, most if not all of my work in 2020&ndash;2023 was happening under the [ROOT project](https://root.cern/) umbrella.
 ROOT is an open-source data analysis framework written mostly in C++ and developed mainly at CERN.
