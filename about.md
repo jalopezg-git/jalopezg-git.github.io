@@ -8,6 +8,16 @@ title: About me
   I'm Javier :wave:, a <em>HPC/low-level software engineer</em> and <em>Ph.D. in Computer Science and Technology</em> based in Madrid (Spain), passionate about C++, OS internals, and compiler design / implementation.
 </p>
 
+## Short bio
+
+Javier holds a B.Sc. in Computer Science and Engineering, and a M.Sc. and Ph.D. in Computer Science and Technology.  During the last few years, his focus has been on development of low-level software (e.g. operating systems, embedded software and electronics, and compilers).
+Javier finished his Ph.D. in October 2020.  His thesis focused on providing techniques that improve software reliability while also aiming at a good trade-off w.r.t. performance.  During his Ph.D., he collaborated with the CERN's ROOT project.  Specifically, he worked on adding support for redefining entities on the Cling C++ interpreter where otherwise disallowed by the ODR, providing a significant improvement to the user experience.
+He joined again CERN's ROOT team in September 2020 where he worked on RNTuple, the ROOT's new, experimental columnar I/O system, and Cling maintenance.
+In March 2024, he joined Zimperium, Inc. as a Senior Compiler Enginner, where he works in AArch64 binary-to-binary software protection.
+Circa 2012, Javier also worked for Tuenti, a former well-known social network operating in Spain.
+
+## TL;DR
+
 Currently, I work at [Zimperium, Inc.](https://www.zimperium.com/) as a Senior Compiler Engineer, part of the development team of an AArch64 binary-to-binary software protection solution.
 Most of my efforts are dedicated to implement obfuscation passes and, lastly, also to complete the support of unwind information / LSDA (Language-Specific Data Area) rewriting.
 
