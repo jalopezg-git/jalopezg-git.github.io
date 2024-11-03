@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 12pt;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 12pt;
   }
 }
 
@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 20rem;
     text-align: left;
   }
 }
@@ -103,7 +103,7 @@ a.sidebar-nav-item:focus {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 1em;
+  margin-bottom: 4em;
 }
 img.profile-picture {
   object-fit: cover;
@@ -142,7 +142,7 @@ img.profile-picture {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 48rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -263,9 +263,31 @@ img.profile-picture {
   color: #8f5536;
 }
 
+/* jalopezg-old */
+.theme-base-jalopezg-old .sidebar {
+  background-image: linear-gradient(to bottom, #b56576, #2a6f97);
+}
+.theme-base-jalopezg-old .sidebar::after {
+  content: url('/public/img/sidebar-bg.svg');
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  top: 0;
+}
+.theme-base-jalopezg-old .content a,
+.theme-base-jalopezg-old .related-posts li a:hover {
+  color: #6a9fb5;
+}
+
+.theme-base-jalopezg-old .sidebar img.profile-picture {
+  background: linear-gradient(to bottom right, #fff, #fff) padding-box,
+	      linear-gradient(to bottom right, #2a6f97, #b56576) border-box;
+  border: 4px solid transparent;
+}
+
 /* jalopezg */
 .theme-base-jalopezg .sidebar {
-  background-image: linear-gradient(to bottom, #b56576, #2a6f97);
+  background-image: linear-gradient(to bottom, #00afb9, #0081a7);
 }
 .theme-base-jalopezg .sidebar::after {
   content: url('/public/img/sidebar-bg.svg');
@@ -273,6 +295,8 @@ img.profile-picture {
   z-index: -1;
   left: 0;
   top: 0;
+  transform: scale(0.9);
+  margin-left: -10pt;
 }
 .theme-base-jalopezg .content a,
 .theme-base-jalopezg .related-posts li a:hover {
@@ -281,7 +305,7 @@ img.profile-picture {
 
 .theme-base-jalopezg .sidebar img.profile-picture {
   background: linear-gradient(to bottom right, #fff, #fff) padding-box,
-	      linear-gradient(to bottom right, #2a6f97, #b56576) border-box;
+	      linear-gradient(to bottom right, #0081a7, #00afb9) border-box;
   border: 4px solid transparent;
 }
 
