@@ -49,7 +49,7 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
 - _"Storing High-Energy Physics data in DAOS"_ at [Intel DAOS User Group meeting 2020](https://daosio.atlassian.net/wiki/spaces/DC/pages/4866835353/DUG20)
 - _"Git - There be dragons"_ at [multiple locations].  See [here](https://github.com/jalopezg-git/Git_There-Be-Dragons)
 
-### Engineering
+### Open-Source Software Engineering
 <script crossorigin src="/public/js/github-calendar.min.js"></script>
 <link rel="stylesheet" href="/public/css/github-calendar-responsive.css"/>
 
@@ -60,9 +60,16 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
 <script>
     GitHubCalendar(".calendar", "jalopezg-git", { responsive: true, global_stats: true });
 </script>
-<p style="font-size: .7rem; float: right;">See <a href="https://github.com/jalopezg-git" target="_blank">@jalopez-git</a>'s contributions on GitHub.</p>
+<p style="font-size: .7rem; text-align: right;">See <a href="https://github.com/jalopezg-git" target="_blank">@jalopez-git</a>'s contributions on GitHub.</p>
+
+- Author and maintainer of a number of open-source projects.  See [here](/projects) for details.
+- Notable contributions to other well-known open-source projects:
+  - CERN's [ROOT project](https://github.com/root-project/root/), and the [cling](https://github.com/root-project/cling/) C++ interpreter: many contributions; see [here](/about) for details.
+  - The [moderncv](https://github.com/moderncv/moderncv/) LaTeX package: the `contemporary` style and `moderncvverticaltimeline.sty`.
+  - [dool](https://github.com/scottchiefbaker/dool) (a `dstat` fork): bug fixes.
+  - [github-calendar.js](https://github.com/Bloggify/github-calendar/): bug fixes.
+  - [zsign](https://github.com/zhlynn/zsign/) (a replacement for Apple's `codesign` utility): implementation of ad-hoc signature and bug fixes.
 
 ### Other merits
 - Reviewer for the [SoftwareX](https://www.sciencedirect.com/journal/softwarex) journal (IF=3.4)
 - Google Summer of Code 2022 mentor for the [HEP Software Foundation](https://hepsoftwarefoundation.org/activities/gsoc.html)
-- Regular development on well-known open-source projects: CERN's [ROOT project](https://github.com/root-project/root/), the [cling](https://github.com/root-project/cling/) C++ interpreter, and the [moderncv](https://github.com/moderncv/moderncv/) LaTeX package.  Contributed fixes to [dool](https://github.com/scottchiefbaker/dool) (a `dstat` fork), and [github-calendar.js](https://github.com/Bloggify/github-calendar/).
