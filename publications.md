@@ -49,6 +49,11 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
 - _"Storing High-Energy Physics data in DAOS"_ at [Intel DAOS User Group meeting 2020](https://daosio.atlassian.net/wiki/spaces/DC/pages/4866835353/DUG20)
 - _"Git - There be dragons"_ at [multiple locations].  See [here](https://github.com/jalopezg-git/Git_There-Be-Dragons)
 
+### Filed Patents
+
+- [U.S. Appl. #63/752,505] [co-author] _"Tamper-Resistant Code Obfuscation With Control Flow Breaking"_.
+- [U.S. Appl. #19/042,905] [co-author] _"Lightweight Code Integrity Solution With Byte-Pattern Entanglement In Program Code"_.
+
 ### Open-Source Software Engineering
 <script crossorigin src="/public/js/github-calendar.min.js"></script>
 <link rel="stylesheet" href="/public/css/github-calendar-responsive.css"/>
@@ -69,7 +74,10 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
   - [dool](https://github.com/scottchiefbaker/dool) (a `dstat` fork): bug fixes.
   - [github-calendar.js](https://github.com/Bloggify/github-calendar/): bug fixes.
   - [zsign](https://github.com/zhlynn/zsign/) (a replacement for Apple's `codesign` utility): implementation of ad-hoc signature and bug fixes.
+  - Minor contributions to LLVM; [#127233](https://github.com/llvm/llvm-project/pull/127233).
 
 ### Other merits
+- Vocal in CTN-UNE 71/SC22/GT21 (C++) national committee, UNE (Asociación Española de Normalización) w/ representation in the ISO International C++ Standards Committee as national expert.
 - Reviewer for the [SoftwareX](https://www.sciencedirect.com/journal/softwarex) journal (IF=3.4)
+- Contributions to the CERN ROOT's [RNTuple Binary Format Specification 1.0](http://cds.cern.ch/record/2923186/files/CERN-OPEN-2025-001.pdf?version=1).
 - Google Summer of Code 2022 mentor for the [HEP Software Foundation](https://hepsoftwarefoundation.org/activities/gsoc.html)
