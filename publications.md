@@ -40,7 +40,7 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
 - _"Adding support for C++ contracts to Clang"_ at [EuroLLVM '19](https://llvm.org/devmtg/2019-04/)
 
 ### Other talks/lectures
-- _"std::launder, std::start\_lifetime\_as, and UB in reinterpret\_cast; OR... type punning done right"_ at [using std::cpp 2025, March 19th](https://usingstdcpp.org/)  [[slides](https://github.com/jalopezg-git/slides-using_stdcpp_2025/blob/master/main.pdf)]  [recording]
+- _"std::launder, std::start\_lifetime\_as, and UB in reinterpret\_cast; OR... type punning done right"_ at [using std::cpp 2025, March 19th](https://usingstdcpp.org/)  [[slides](https://github.com/jalopezg-git/slides-using_stdcpp_2025/blob/master/main.pdf)]  [[recording](https://www.youtube.com/watch?v=NRV_bgN92DI)]
 - _"Interpreted C++: Is that a thing?"_ at [using std::cpp 2024, April 25th](https://usingstdcpp.org/)  [[slides](https://github.com/jalopezg-git/slides-using_stdcpp_2024/blob/master/main.pdf)]  [[recording](https://youtu.be/6xzR-IR85wM)]
 - _"RNTuple and RDataFrame Status and Roadmap"_ at CERN EP R&D Seminar Series, 2023-07-03 [[slides](/public/docs/EP_RD_WP7.4_EfficientAnalysis_03072023.pdf)]
 - _"Mapping ROOT RNTuple I/O data structures to DAOS objects"_ at [CERN openlab Technical Workshop 2023](https://indico.cern.ch/event/1225408/contributions/5243848/)
