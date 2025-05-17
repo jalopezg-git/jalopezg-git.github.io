@@ -15,7 +15,7 @@ Should you need to reach me, you can do it via the following means of contact
 <a href="https://discord.com/users/jalopezg_13459" target="_blank">jalopezg&#95;13459</a>
 <br/>
 <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/></svg>
-<span>&#x6a;&#x61;&#x76;&#x69;&#x65;&#x72;.&#x6c;&#x6f;&#x70;&#x65;&#x7a;.&#x67;&#x6f;&#x6d;&#x65;&#x7a;</span>@<span>&#x70;&#x72;&#x6f;&#x74;&#x6f;&#x6e;.&#x6d;&#x65;</span>
+<span>&#x6a;&#x61;&#x76;&#x69;&#x65;&#x72;</span>@<span>&#x6a;&#x61;&#x6c;&#x6f;&#x70;&#x65;&#x7a;&#x67;&#x2e;&#x64;&#x65;&#x76;</span>
 <br/>
 <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M294.8 188.2h-45.9V342h47.5c67.6 0 83.1-51.3 83.1-76.9 0-41.6-26.5-76.9-84.7-76.9zM256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm-80.8 360.8h-29.8v-207.5h29.8zm-14.9-231.1a19.6 19.6 0 1 1 19.6-19.6 19.6 19.6 0 0 1 -19.6 19.6zM300 369h-81V161.3h80.6c76.7 0 110.4 54.8 110.4 103.9C410 318.4 368.4 369 300 369z"/></svg>
 ORCID: 0000-0003-3703-9710
