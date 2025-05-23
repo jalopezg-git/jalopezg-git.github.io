@@ -75,7 +75,7 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
   - [dool](https://github.com/scottchiefbaker/dool) (a `dstat` fork): bug fixes.
   - [github-calendar.js](https://github.com/Bloggify/github-calendar/): bug fixes.
   - [zsign](https://github.com/zhlynn/zsign/) (a replacement for Apple's `codesign` utility): implementation of ad-hoc signature and bug fixes.
-  - Minor contributions to LLVM; [#127233](https://github.com/llvm/llvm-project/pull/127233).
+  - Several contributions to LLVM; see [merged PRs](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3Ajalopezg-git+is%3Aclosed).
 
 ### Other merits
 - Vocal in CTN-UNE 71/SC22/GT21 (C++) national committee, UNE (Asociación Española de Normalización) w/ representation in the ISO International C++ Standards Committee as national expert.
