@@ -71,11 +71,12 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
 - Author and maintainer of a number of open-source projects.  See [here](/projects) for details.
 - Notable contributions to other well-known open-source projects:
   - CERN's [ROOT project](https://github.com/root-project/root/), and the [cling](https://github.com/root-project/cling/) C++ interpreter: many contributions; see [here](/about) for details.
+    See also [merged PRs](https://github.com/root-project/root/pulls?q=is%3Apr+author%3Ajalopezg-git+is%3Aclosed).
+  - Contributions to LLVM, mainly in DebugInfo-LogicalView and ADT libraries; see [merged PRs](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3Ajalopezg-git+is%3Aclosed).
   - The [moderncv](https://github.com/moderncv/moderncv/) LaTeX package: the `contemporary` style and `moderncvverticaltimeline.sty`.
   - [dool](https://github.com/scottchiefbaker/dool) (a `dstat` fork): bug fixes.
-  - [github-calendar.js](https://github.com/Bloggify/github-calendar/): bug fixes.
   - [zsign](https://github.com/zhlynn/zsign/) (a replacement for Apple's `codesign` utility): implementation of ad-hoc signature and bug fixes.
-  - Several contributions to LLVM; see [merged PRs](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3Ajalopezg-git+is%3Aclosed).
+  - [github-calendar.js](https://github.com/Bloggify/github-calendar/): bug fixes.
 
 ### Other merits
 - Vocal in CTN-UNE 71/SC22/GT21 (C++) national committee, UNE (Asociación Española de Normalización) w/ representation in the ISO International C++ Standards Committee as national expert.
