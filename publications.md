@@ -40,6 +40,7 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
 - _"Adding support for C++ contracts to Clang"_ at [EuroLLVM '19](https://llvm.org/devmtg/2019-04/)
 
 ### Other talks/lectures
+- _"You `throw`; I'll `try` to `catch` it"_ at [using std::cpp 2026, March 18th](https://usingstdcpp.org/)  [upcoming]
 - _"std::launder, std::start\_lifetime\_as, and UB in reinterpret\_cast; OR... type punning done right"_ at [using std::cpp 2025, March 19th](https://usingstdcpp.org/)  [[slides](https://github.com/jalopezg-git/slides-using_stdcpp_2025/blob/master/main.pdf)]  [[recording](https://www.youtube.com/watch?v=NRV_bgN92DI)]
 - _"Interpreted C++: Is that a thing?"_ at [using std::cpp 2024, April 25th](https://usingstdcpp.org/)  [[slides](https://github.com/jalopezg-git/slides-using_stdcpp_2024/blob/master/main.pdf)]  [[recording](https://youtu.be/6xzR-IR85wM)]
 - _"RNTuple and RDataFrame Status and Roadmap"_ at CERN EP R&D Seminar Series, 2023-07-03 [[slides](/public/docs/EP_RD_WP7.4_EfficientAnalysis_03072023.pdf)]
@@ -73,6 +74,7 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
   - CERN's [ROOT project](https://github.com/root-project/root/), and the [cling](https://github.com/root-project/cling/) C++ interpreter: many contributions; see [here](/about) for details.
     See also [merged PRs](https://github.com/root-project/root/pulls?q=is%3Apr+author%3Ajalopezg-git+is%3Aclosed).
   - Contributions to LLVM, mainly in DebugInfo-LogicalView and ADT libraries; see [merged PRs](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3Ajalopezg-git+is%3Aclosed).
+  - Contributions to LIEF; mostly bug fixes; see [merged PRs](https://github.com/lief-project/LIEF/pulls?q=is%3Apr+author%3Ajalopezg-git+is%3Aclosed).
   - The [moderncv](https://github.com/moderncv/moderncv/) LaTeX package: the `contemporary` style and `moderncvverticaltimeline.sty`.
   - [dool](https://github.com/scottchiefbaker/dool) (a `dstat` fork): bug fixes.
   - [zsign](https://github.com/zhlynn/zsign/) (a replacement for Apple's `codesign` utility): implementation of ad-hoc signature and bug fixes.
