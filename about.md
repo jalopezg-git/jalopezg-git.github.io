@@ -56,3 +56,8 @@ As a requirement for a thesis' chapter, I wrote a <a href="https://github.com/ar
 For more information, please see a summarized version of my CV ([English](/public/docs/resume_en-US.pdf)).  A list of relevant publications can be accessed [here](/publications).
 In my spare time, I also maintain / contribute to a number of [open-source projects](/projects).
 See also my [GitHub profile](https://github.com/jalopezg-git/).
+
+## In the media
+
+- [Consejo General de Colegios Profesionales - CCII: UC3M organizes the 'using std::cpp 2026' conference](https://www.ccii.es/noticias/822-la-uc3m-organiza-el-congreso-using-std-cpp-2026)
+- [UC3M, Noticias, La UC3M reúne a la élite mundial del lenguaje de programación C++](https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/Detalle/Comunicacion_C/1371464890786/1371215537949/La_UC3M_reune_a_la_elite_mundial_del_lenguaje_de_programacion_C++)
