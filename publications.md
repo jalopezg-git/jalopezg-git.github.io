@@ -49,7 +49,8 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
 - _"Mapping ROOT RNTuple I/O data structures to DAOS objects"_ at [CERN openlab Technical Workshop 2022](https://indico.cern.ch/event/1100904/contributions/4751987/)
 - _"Status and Roadmap of ROOT's RNTuple and DAOS"_ at [Intel DAOS User Group meeting 2021](https://daosio.atlassian.net/wiki/spaces/DC/pages/11015454821/DUG21)
 - _"Storing High-Energy Physics data in DAOS"_ at [Intel DAOS User Group meeting 2020](https://daosio.atlassian.net/wiki/spaces/DC/pages/4866835353/DUG20)
-- _"Git - There be dragons"_ at [multiple locations].  See [here](https://github.com/jalopezg-git/Git_There-Be-Dragons)
+- _"Git - There be dragons"_ at [multiple locations; see below].  See [here](https://github.com/jalopezg-git/Git_There-Be-Dragons).  
+  On January 2019 (UC3M), September 2019 (ROOT--CERN), October 2019 (UJI), April 2024 (Zimperium), and June 2026 (UC3M).
 
 ### Filed Patents
 
