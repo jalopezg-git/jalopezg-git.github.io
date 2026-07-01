@@ -54,7 +54,8 @@ In Proceedings of the 29th International Conference on Compiler Construction (CC
 
 ### Filed Patents
 
-- [U.S. Appl. #63/752,505] [co-author] _"Tamper-Resistant Code Obfuscation With Control Flow Breaking"_.
+- [US-12670238-B1] [co-author] _"Tamper-Resistant Code Obfuscation With Control Flow Breaking"_.  [USPTO](https://ppubs.uspto.gov/basic/).  
+  Nappa; Antonio (Madrid, ES), Goodes; Grant Stewart (Manotick, CA), Lopez Gomez; Javier (Madrid, ES).
 - [U.S. Appl. #19/042,905] [co-author] _"Lightweight Code Integrity Solution With Byte-Pattern Entanglement In Program Code"_.
 
 ### Open-Source Software Engineering
